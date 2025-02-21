@@ -16,7 +16,7 @@
   - Free to use, modify, and distribute
 
   ## 🔄 Replacing the Old Symbol
-  The new Saudi Riyal symbol replaces the old one `﷼` (Unicode: U+FD3C).
+  The new Saudi Riyal symbol replaces the old one `﷼` (Unicode: U+FDFC).
   
   ## 📥 Installation
   1. Download the font file (OTF/TTF)
@@ -47,7 +47,7 @@
   - مضمن معه ملف تعديل الخط بصيغة (sfd)
   
   ## 🔄 استبدال الرمز القديم
-  الرمز الجديد للريال السعودي يحل محل الرمز القديم `﷼` (الرمز الجديد في Unicode: U+FD3C).
+  الرمز الجديد للريال السعودي يحل محل الرمز القديم `﷼` (الرمز الجديد في Unicode: U+FDFC).
   
   ## 📥 التثبيت
   1. قم بتحميل ملف الخط (OTF/TTF)
