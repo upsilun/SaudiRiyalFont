@@ -1,5 +1,5 @@
   ![riyal-cover.png](riyal-cover.png)
-  ![riyal-cover.png](https://i.ibb.co/0pgGP0jp/image.png)
+  ![riyal-cover.png](https://i.ibb.co/KjQvRPTf/image-8.jpg)
 
 <details>
   <summary>🇬🇧 English</summary>
