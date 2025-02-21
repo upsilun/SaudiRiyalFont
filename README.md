@@ -1,4 +1,5 @@
   ![riyal-cover.png](riyal-cover.png)
+  ![riyal-cover.png](https://i.ibb.co/0pgGP0jp/image.png)
 
 <details>
   <summary>🇬🇧 English</summary>
