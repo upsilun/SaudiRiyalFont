@@ -7,6 +7,9 @@
 
   A custom font with the new Saudi Riyal symbol for easy use in digital and print projects.
 
+  Download the font file from the following link:
+     [Download Saudi Riyal Symbol Font](https://github.com/upsilun/SaudiRiyalFont/releases/download/font/SaudiRiyalFont.ttf)
+     
   ## 🚀 Features
   - New Saudi Riyal symbol included
   - Free to use, modify, and distribute
@@ -30,7 +33,10 @@
   # خط رمز الريال السعودي الجديد
 
   خط مخصص يتضمن رمز الريال السعودي الجديد لسهولة استخدامه في المشاريع الرقمية والمطبوعة.
-
+  
+  لتحميل ملف الخط بشكل مباشر عن طريق الرابط التالي:
+     [تحميل خط رمز الريال السعودي](https://github.com/upsilun/SaudiRiyalFont/releases/download/font/SaudiRiyalFont.ttf)
+     
   ## 🚀 الميزات
   - رمز الريال السعودي الجديد مضمن
   - مجاني للاستخدام والتعديل والتوزيع
