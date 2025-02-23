@@ -1,4 +1,4 @@
-  ![riyal-cover.png](riyal-cover.png)
+  ![riyal-cover.png](https://i.ibb.co/ym9ZGfDk/riyal-cover.png)
   ![riyal-cover.png](https://i.ibb.co/KjQvRPTf/image-8.jpg)
 
 <details>
